@@ -3,7 +3,7 @@ h1{
     border: orange;
 }
 img{
-    border: 10px solid blue;
+    border: 5px solid blue;
     max-height: 800px;
     max-width: 1000px;
 }
@@ -20,9 +20,7 @@ p{
     margin-right: 50pxs;
     padding-left: 0in;
 }
-h1{
-    border: 3px solid black;
-}
+
 
 a{
     color: blue;
